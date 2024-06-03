@@ -34,5 +34,3 @@ For large and complex models, utilizing a GPU can significantly reduce training 
 ### About the Author
 [Prakash.P] is a [Data Scientist] with expertise in [Modeling]. Feel free to reach out for any questions or collaborations at [prakash2822001@gmail.com].
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
