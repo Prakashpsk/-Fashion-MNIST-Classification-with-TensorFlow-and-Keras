@@ -31,21 +31,6 @@ The benchmark results show the time taken for training with different configurat
 ## 📈 Recommendations
 For large and complex models, utilizing a GPU can significantly reduce training time. It is also important to preprocess data and structure the model efficiently to maximize performance gains.
 
-## 🚀 How to Use
-1. Clone the repository.
-    ```bash
-    git clone https://github.com/yourusername/fashion-mnist-classification.git
-    ```
-2. Install the required dependencies.
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the Python script.
-    ```bash
-    python fashion_mnist_classification.py
-    ```
-
-## 👏 Credits
 ### About the Author
 [Prakash.P] is a [Data Scientist] with expertise in [Modeling]. Feel free to reach out for any questions or collaborations at [prakash2822001@gmail.com].
 
