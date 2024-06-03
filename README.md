@@ -25,9 +25,6 @@ The modeling process involves defining, training, and evaluating neural network 
 3. Train and evaluate the model on CPU and GPU for different configurations.
 4. Visualize sample images and their predicted labels.
 
-## 📊 Visualization
-![Sample Images](sample_images.png)
-
 ## 📝 Conclusion
 The benchmark results show the time taken for training with different configurations. Generally, training on a GPU is faster than on a CPU, especially as the model complexity increases.
 
